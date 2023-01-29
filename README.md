@@ -1,2 +1,2 @@
-# Brightness_Control
-Computer brightness control using hand gesture
+This game uses Computer Vision hand tracking gesture to control the
+brightness of a computer.
